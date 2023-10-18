@@ -1,2 +1,1 @@
-# CodeClauseInternship_PythonDevelopment
-Python Development Intern
+# CodeClauseInternship_Mail Application with GUI
